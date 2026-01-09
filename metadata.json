@@ -1,0 +1,7 @@
+{
+  "name": "Create Commercial Picture - AI Studio",
+  "description": "Professional AI-powered studio for creating and editing commercial product advertisements from text and photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
